@@ -14,4 +14,4 @@
 
  # Sample Output
 
-![Image](https://github.com/user-attachments/assets/ca3a1205-56ef-4d9e-b2d0-794dd4fe8987)
+![Image](https://github.com/user-attachments/assets/a87064e6-4f55-4554-8dd9-4de1255a442f)
