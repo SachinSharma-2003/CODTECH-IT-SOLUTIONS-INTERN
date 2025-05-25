@@ -15,7 +15,7 @@
 
  # sample output:
  
- ![Screenshot 2025-01-09 160106](https://github.com/user-attachments/assets/14402096-3477-43e4-9315-cac2c73e8bce)
+ ![Image](https://github.com/user-attachments/assets/3c7db211-0cce-4bbe-834f-c24bc7cd32fd)
 
 
 
